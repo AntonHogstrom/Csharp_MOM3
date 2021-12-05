@@ -1,6 +1,6 @@
 # Csharp_MOM3
 
-##C# Console Application
+## C# Console Application
 - Guest book that allows user to get posts, post, and delete.
 - Uses object-oriented programming
 - validation of inputs
