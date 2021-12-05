@@ -6,4 +6,5 @@
 - validation of inputs
 - loops
 - fun
-*Anton Högström*
+<br>
+Anton Högström
